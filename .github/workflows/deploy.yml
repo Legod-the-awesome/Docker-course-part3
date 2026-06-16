@@ -43,4 +43,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/hu-docker-part3-ex3.1:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/docker-part3-ex3.1:latest
