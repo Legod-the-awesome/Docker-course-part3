@@ -1,6 +1,6 @@
 services:
   website:
-    image: viksil/hu-docker-part3-ex3.1
+    image: willthedocker/hu-docker-part3-ex3.1
     ports:
       - 8080:8080
     labels:
